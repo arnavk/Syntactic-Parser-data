@@ -10,7 +10,7 @@
   (FRAG
     (NNP (NN Ipad) (NNP Air.)))
   (FRAG
-    (NNP In) (NN Love!!)))
+    (INto In) (NN Love!!)))
 
 (ROOT
   (S
